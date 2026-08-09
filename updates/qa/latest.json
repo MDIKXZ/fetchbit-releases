@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0-beta.1.qa.2",
+  "notes": "Fetchbit isolated QA update.",
+  "pub_date": "2026-08-09T23:02:50Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/MDIKXZ/fetchbit-releases/releases/download/qa-v0.1.0-beta.1.qa.2/Fetchbit QA_0.1.0-beta.1.qa.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1M4ckRlWFYxalVEMERyK0l6UXNDbGFmUlZSeGU5cVBZeEh3d2MxTTVRMUNWbXZuVW9TV21wZjZTdWNXU1h4Q28zS055LzBZdXVzaGlyMXFsQUZ1clpQM0lPc2laWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzE2NTY3CWZpbGU6RmV0Y2hiaXQgUUFfMC4xLjAtYmV0YS4xLnFhLjJfeDY0LXNldHVwLmV4ZQoxOUJOUUg4Qmk3cG42NlhnbXpvdE9aa0RVbjNrZ2xBWnJhVHg5MkViOHljK21HQnRXRDllRmtraEZSNklKeEovRHVMUEhVeXhaY0FvZjd0aDRRQWVEdz09Cg=="
+    }
+  }
+}
