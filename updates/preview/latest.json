@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-alpha.3",
+  "version": "0.1.0-beta.1",
   "notes": "Fetchbit Windows update.",
-  "pub_date": "2026-07-27T11:32:59Z",
+  "pub_date": "2026-08-10T23:09:46Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MDIKXZ/fetchbit-releases/releases/download/v0.1.0-alpha.3/Fetchbit_0.1.0-alpha.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1M4ckRlWFYxalY4aHdmZm1CQ1hQdVQxTi9RS1NPZGpyRzhvOGlJRy9uUjdTTitKMGI5Z2x4L2YrNWthK25KWWNqZUtQaklCV3c3YldNSmNFL1VlNmFUMkpoS2RmbkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTUxOTYxCWZpbGU6RmV0Y2hiaXRfMC4xLjAtYWxwaGEuM194NjQtc2V0dXAuZXhlCjBrRU5RdmFhUi81RkJyRzUrNlFnTzNwU016MWM5dnFOZ1ZEaWlybDNaNFcvUTlGOTN3em9mQWgwR3FiNTRmMzNJcGdENVlhQUZrRVM1ak5FQzh5TkJ3PT0K"
+      "url": "https://github.com/MDIKXZ/fetchbit-releases/releases/download/v0.1.0-beta.1/Fetchbit_0.1.0-beta.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1M4ckRlWFYxalo4c1ZLSFN0elBjV0tacUdCVjdQWW1QdDFVZldBYjEyOTBybDhFaStBZyt5MUkxWi9JSGRyUjJQWDFGSUJTbmNHcFZpSnRvdFk1KzR0MWNVcG8vSkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDAzMzgzCWZpbGU6RmV0Y2hiaXRfMC4xLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUKNzlKSDdvVXhzVHY0Ym04T0pCUHFVU3VPNmc0YVk0L2lqcWlaa3A1RmRNNDc2OEM3Y3VWTDAzSGhBYS8xaHdtV2c5Y3lUdGMvZGErbWJMTlR6RUVjQWc9PQo="
     }
   }
 }
