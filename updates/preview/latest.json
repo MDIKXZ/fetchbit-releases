@@ -1,11 +1,13 @@
 {
-  "version": "0.1.0-beta.1",
-  "notes": "Fetchbit Windows update.",
-  "pub_date": "2026-08-10T23:09:46Z",
+  "version": "1.0.0",
+  "notes": "Fetchbit 1.0.0 is the first official release. What's new: independent Multiple Links and Playlist downloads; Smart Cut with acquisition progress and download rate; video with audio, audio-only, and video-only workflows with quality controls; smoother theme, language, text-size, and task transitions; safer migration from Fetchly that preserves supported settings, theme, download history, and thumbnails; and improved Windows packaging, updater reliability, security, and data protection.",
+  "notes_en": "Fetchbit 1.0.0 is the first official release. What's new: independent Multiple Links and Playlist downloads; Smart Cut with acquisition progress and download rate; video with audio, audio-only, and video-only workflows with quality controls; smoother theme, language, text-size, and task transitions; safer migration from Fetchly that preserves supported settings, theme, download history, and thumbnails; and improved Windows packaging, updater reliability, security, and data protection.",
+  "notes_ar": "Fetchbit 1.0.0 هو أول إصدار رسمي. ما الجديد؟ تنزيل عدة روابط وقوائم التشغيل كمهام مستقلة؛ تحسين Smart Cut مع عرض تقدم وسرعة التنزيل؛ تنزيل الفيديو مع الصوت أو الصوت فقط أو الفيديو فقط مع التحكم بالجودة؛ انتقالات أكثر سلاسة للثيم واللغة وحجم النص والمهام؛ ترحيل آمن من Fetchly يحافظ على الإعدادات والثيم وسجل التنزيلات والصور المصغرة المدعومة؛ وتحسينات على حزم Windows والتحديث والأمان وسلامة البيانات.",
+  "pub_date": "2026-09-04T22:45:08Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MDIKXZ/fetchbit-releases/releases/download/v0.1.0-beta.1/Fetchbit_0.1.0-beta.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1M4ckRlWFYxalo4c1ZLSFN0elBjV0tacUdCVjdQWW1QdDFVZldBYjEyOTBybDhFaStBZyt5MUkxWi9JSGRyUjJQWDFGSUJTbmNHcFZpSnRvdFk1KzR0MWNVcG8vSkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDAzMzgzCWZpbGU6RmV0Y2hiaXRfMC4xLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUKNzlKSDdvVXhzVHY0Ym04T0pCUHFVU3VPNmc0YVk0L2lqcWlaa3A1RmRNNDc2OEM3Y3VWTDAzSGhBYS8xaHdtV2c5Y3lUdGMvZGErbWJMTlR6RUVjQWc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1M4ckRlWFYxalpGS1NnUjBHc3RXb0tDZlVpeWFSUFpqSUZPbVlHOTR3TS8xUUNLaFEraUlRM3ZUdEFGKzVPVUlTbFUraHpUS2V2VkR0cjArbEt5QTBCQnMzczVTbUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYxODc4CWZpbGU6RmV0Y2hiaXRfMS4wLjBfeDY0LXNldHVwLmV4ZQpPcG1kMGtTZDVhalh3TEc3dWFNcGovRnpIQkdObGoyZW40MDkwM0F4ZzFCa2VYYXoxcWhsT0pqSFVFN3haajMwblZ4UjA4Z2liQkpKSlR1SlcwQVNBZz09Cg==",
+      "url": "https://github.com/MDIKXZ/fetchbit-releases/releases/download/v1.0.0/Fetchbit_1.0.0_x64-setup.exe"
     }
   }
 }
