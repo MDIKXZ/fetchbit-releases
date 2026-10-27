@@ -5,6 +5,8 @@
 - [Microsoft Store](https://apps.microsoft.com/detail/9N5Z52JVFG6Z)
 - [GitHub Releases](https://github.com/MDIKXZ/fetchbit-releases/releases/latest)
 
+<div dir="rtl">
+
 ## العربية
 
 Fetchbit تطبيق مجاني وسريع لتنزيل الفيديو والصوت من YouTube وTikTok وInstagram وX وFacebook وأكثر من 100 موقع آخر، مع حفظ الملفات ومعالجتها محليًا على جهازك.
@@ -17,6 +19,8 @@ Fetchbit تطبيق مجاني وسريع لتنزيل الفيديو والصو
 - استيراد مقاطعك من الجهاز وإرفاق ملفات الترجمة بها لتشغيلها داخل التطبيق.
 - تنزيل الصور المصغرة مع المقاطع، وتنظيم ملفاتك في مجلدات.
 - واجهة عربية وإنجليزية، وسمة فاتحة وداكنة.
+
+</div>
 
 ## English
 
